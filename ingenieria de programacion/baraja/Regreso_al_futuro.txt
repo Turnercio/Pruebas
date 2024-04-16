@@ -1,4 +1,5 @@
 Aqui comienza todo
+<<<<<<< HEAD
 Marty es atropellado por su abuelo
 Lorraine se enamora de su hijo
 Marty consigue que su madre se desenamore
@@ -10,3 +11,10 @@ Nace Dave
 Nace Linda
 Nace Marty
 Doc manda un minuto al futuro a Darwin
+=======
+Atropello del Padre de Marty McFly
+George y Lorraine se enamoran
+Nace Dave
+Nace Linda
+Nace Marty
+>>>>>>> 418e647b79912fc4dd8685dae02ec2c2cdd291d2
